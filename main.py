@@ -8,3 +8,8 @@ print('score is' ,score)
 
 name = input("enter name")
 print('hello how are you', name)
+
+
+#activity 3
+import keyword
+print(keyword.kwlist)
